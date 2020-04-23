@@ -1,2 +1,2 @@
 # Microsoft.Extensions.Configuration.Hjson
-Hjson configuration provider implementation for Microsoft.Extensions.Configuration.
+Extension to support hjson files (https://github.com/hjson/hjson) in the Microsoft configuration extensions.
